@@ -12,7 +12,7 @@ title                    : "Academic page of Leon Ju"
 title_separator          : "-"
 name                     : &name "Ju Yi'ang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://leon-ju.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
