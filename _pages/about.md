@@ -28,4 +28,14 @@ My CS172 homework, replication of the paper "Unsupervised CNN for single view de
 
 ## [Train nerf](https://github.com/LEON-JU/Train_nerf)
 My CS172 homework, training nerf on self-customed datasets.
+
+## [2D-Pose-Graph-Optimization](https://github.com/LEON-JU/2D-Pose-Graph-Optimization))
+My CS284 SLAM course homework1, I implemented 2D Pose Graph Optimization in two methods: 1. solving Jacobian by hand 2. using g2o
+
+## [2D-particle-filtering-with-ray-marching](https://github.com/LEON-JU/2D-particle-filtering-with-ray-marching)
+My CS284 SLAM course homework2, 2D Monte Carlo Localization (MCL) particle filtering algorithm
+
+## [Scale-aware-Pose-Graph-Optimization](https://github.com/LEON-JU/Scale-aware-Pose-Graph-Optimization)
+My CS284 SLAM course homework3, Improvement of Pose Graph Optimization, learning from "Runze Yuan, Ran Cheng, Lige Liu, Tao Sun, and Laurent Kneip. Scale jump-aware
+pose graph relaxation for monocular slam with re-initializations"
  
