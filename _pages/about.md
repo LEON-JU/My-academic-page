@@ -10,6 +10,9 @@ redirect_from:
 I'm a third year undergraduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes SLAM and computer vision.
 
 # Projects
+## [Cross-Modal Event Camera Tracking based on Gaussian Splatting](https://github.com/ChillTerry/GS-EVT)
+[ICRA25] GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting
+arxiv: [https://arxiv.org/abs/2409.19228v1](https://arxiv.org/abs/2409.19228v1)
 
 ## [BME1102-druid_project](https://github.com/LEON-JU/BME1102-druid_project)
 An animal supervision system based on python which also includes a learning based computer vision classification module.
