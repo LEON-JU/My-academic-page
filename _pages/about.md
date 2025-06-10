@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes SLAM and computer vision.
+I'm a fourth year undergraduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes SLAM and computer vision and so on, I'm also exploring LLM related techs.
 
 # Projects
 ## [Cross-Modal Event Camera Tracking based on Gaussian Splatting](https://github.com/ChillTerry/GS-EVT)
