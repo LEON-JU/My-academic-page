@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes SLAM and computer vision and so on, I'm also exploring LLM related techs.
+I'm a first year master's student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest lie in robotic perception, particularly 3D computer vision and SLAM.
 
 # Projects
 ## [Cross-Modal Event Camera Tracking based on Gaussian Splatting](https://github.com/ChillTerry/GS-EVT)
 [ICRA25] GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting
 arxiv: [https://arxiv.org/abs/2409.19228v1](https://arxiv.org/abs/2409.19228v1)
-
-## [CS173-EmotionPopularity](https://github.com/LEON-JU/CS173-EmotionPopularity.git)
-An LLM based prompt-engineering project that utilize the potential of LLM to label Sina Weibo posts by their emotion components, then use our original emotion analyze score to examine their contributions to the popularity of a specific Weibo trend.
 
 ## [Othello_CS181project](https://github.com/LEON-JU/Othello_CS181)
 Reinforce learning othello agents implemented in three different methods: Greedy, Monte Carlo Tree Search and Q-Learning with DQN.
@@ -41,6 +38,9 @@ My CS172 homework, replication of the paper "Unsupervised CNN for single view de
 
 ## [Train nerf](https://github.com/LEON-JU/Train_nerf)
 My CS172 homework, training nerf on self-customed datasets.
+
+## [CS173-EmotionPopularity](https://github.com/LEON-JU/CS173-EmotionPopularity.git)
+An LLM based prompt-engineering project that utilize the potential of LLM to label Sina Weibo posts by their emotion components, then use our original emotion analyze score to examine their contributions to the popularity of a specific Weibo trend.
 
 ## [BME1102-druid_project](https://github.com/LEON-JU/BME1102-druid_project)
 An animal supervision system based on python which also includes a learning based computer vision classification module.
